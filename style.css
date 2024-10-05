@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(0, 0%, 8%);
+}  
+
+.container{
+    margin: 7%;
+    padding: 15px;
+    height: 470px;
+    width: 300px;
+    border-radius: 4%;
+    background-color:  hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+}
+
+.round-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.round-image img{
+    display: block;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.head-text h2{
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif, "poppins";
+}
+
+.head-text span{
+    color: hsl(75, 94%, 57%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    font-size: 14px;
+    font-family: sans-serif, "poppins-light";
+}
+
+.head-text p{
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    font-size: 15px;
+    font-family: sans-serif,"roboto";
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif, "bold";
+}
+
+.buttons button{
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    border: none;
+    margin: 5px 5px;
+    padding: 10px 10px;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buttons button:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    font-weight: bold;
+}

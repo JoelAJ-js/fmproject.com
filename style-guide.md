@@ -11,27 +11,23 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
-
-- Green 200 (lighter): hsl(148, 38%, 91%)
-- Green 600 (medium): hsl(169, 82%, 27%)
-- Red: hsl(0, 66%, 54%)
-
-### Neutral
+- Green: hsl(75, 94%, 57%)
 
 - White: hsl(0, 0%, 100%)
-- Grey 500 (medium): hsl(186, 15%, 59%)
-- Grey 900 (darker): hsl(187, 24%, 22%)
+
+- Grey 700: hsl(0, 0%, 20%)
+- Grey 800: hsl(0, 0%, 12%)
+- Grey 900: hsl(0, 0%, 8%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (labels): 16px
+- Font size (paragraph): 14px
 
 ### Font
 
-- Family: [Karla](https://fonts.google.com/specimen/Karla)
-- Weights: 400, 700
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 400, 600, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
