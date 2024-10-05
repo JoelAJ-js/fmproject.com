@@ -1,2 +1,2 @@
 # fmproject.com
-Im trying out some simple projrxts thats all
+Im trying out some simple projects thats all
